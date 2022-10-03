@@ -1,2 +1,2 @@
 # Car-Price-Prediction
-heroku stack:set heroku-18
+heroku create --stack heroku-18
